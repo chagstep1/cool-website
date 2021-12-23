@@ -1,0 +1,21 @@
+* {
+	font-family: "New Times Roman", sans-serif;
+}
+
+h1 {
+	color: rgb(100, 100, 0);
+	text-align: center;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+p {
+	text-align: center;
+}
+
+.lists {
+	background-color: #871F78;
+	color: white;
+}
